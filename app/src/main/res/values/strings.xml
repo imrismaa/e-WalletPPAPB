@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">e-Wallet</string>
+    <string name="hi">Hi, Clarencce,</string>
+    <string name="balance">5,600.00</string>
+    <string name="title_pay">Pay money</string>
+    <string name="desc_pay">To wallet, bank or mobile number</string>
+    <string name="title_req">Request money</string>
+    <string name="des_req">Request money from Cowry Loans</string>
+    <string name="title_payb">Pay bill</string>
+    <string name="desc_payb">Zero transactions fees when you pay</string>
+    <string name="title_airtime">Buy airtime</string>
+    <string name="desc_airtime">Top-up or Send airtime across Countries</string>
+</resources>
